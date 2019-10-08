@@ -1,3 +1,10 @@
+GDZIE JEST COMMIT PAWEŁ
+GDZIE JEST 
+COMMIT
+
+
+
+
 # trueanal
 
 ![](http://giphygifs.s3.amazonaws.com/media/mCzGEL95umeyY/giphy.gif)
