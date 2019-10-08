@@ -9,3 +9,7 @@
 3) git add .
 4) git commit -m "jakiś komentarz"
 5) git push https://github.com/pawelfilar23/trueanal.git master
+
+
+![](
+https://media.giphy.com/media/hO7Fa5QlCnE3u/giphy.gif)
